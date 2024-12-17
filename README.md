@@ -17,7 +17,7 @@
 <!-- About Me -->
 <h2 align="center">👨🏻‍💻 &nbsp;About Me</h2>
 
-<p> i m cool</p>
+<p  align="center" > i m cool</p>
 <!-- IDE Used -->
 <h2 align="center">🛠 &nbsp;IDEs I Use</h2>
 <div align="center">
@@ -84,14 +84,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bauwao&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bauwao&theme=github-light">
     <img height="160" width="430" src="https://github-readme-activity-graph.vercel.app/graph?username=bauwao&theme=react" alt="bauwao's GitHub Activity Graph"/>
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bauwao/bauwao/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bauwao/bauwao/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bauwao/bauwao/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
